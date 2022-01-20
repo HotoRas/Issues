@@ -34,6 +34,6 @@ OS: Microsoft Windows 10 Home, 21H1 (Build 19043.1466)
 
 Java: Recommended-by-InteliJ: 16.0.2
 
-Build Command: on CMD `PUSHD %~DP0`
+Build Command: on CMD
 - gradlew paperJar
 - gradlew psychics-core:paperJar
