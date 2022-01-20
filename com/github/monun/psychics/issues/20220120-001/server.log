@@ -1,0 +1,222 @@
+[15:35:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:35:35] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[15:35:35] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:35:36] [Worker-Main-1/INFO]: Loaded 7 recipes
+[15:35:37] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[15:35:37] [Server thread/INFO]: Loading properties
+[15:35:37] [Server thread/INFO]: This server is running Paper version git-Paper-408 (MC: 1.17.1) (Implementing API version 1.17.1-R0.1-SNAPSHOT) (Git: cc43ba7 on ver/1.17.1)
+[15:35:37] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:35:37] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:35:37] [Server thread/INFO]: Default game type: SURVIVAL
+[15:35:37] [Server thread/INFO]: Generating keypair
+[15:35:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:35:37] [Server thread/INFO]: Using default channel type
+[15:35:37] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[15:35:37] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[15:35:38] [Server thread/INFO]: [Psychics] Loading 3 libraries... please wait
+[15:35:38] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/tap/4.1.9/tap-4.1.9.pom
+[15:35:39] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.5.21/kotlin-stdlib-1.5.21.pom
+[15:35:40] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.pom
+[15:35:41] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.5.21/kotlin-stdlib-common-1.5.21.pom
+[15:35:41] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/tap-api/4.1.9/tap-api-4.1.9.pom
+[15:35:42] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.5.21/kotlin-reflect-1.5.21.pom
+[15:35:43] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.5.0/kotlinx-coroutines-core-jvm-1.5.0.pom
+[15:35:43] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.5.0/kotlin-stdlib-jdk8-1.5.0.pom
+[15:35:44] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.5.0/kotlin-stdlib-1.5.0.pom
+[15:35:45] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.5.0/kotlin-stdlib-common-1.5.0.pom
+[15:35:45] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.5.0/kotlin-stdlib-jdk7-1.5.0.pom
+[15:35:46] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/org/mariuszgromada/math/MathParser.org-mXparser/4.4.2/MathParser.org-mXparser-4.4.2.pom
+[15:35:47] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/invfx/3.0.1/invfx-3.0.1.pom
+[15:35:47] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/invfx-api/3.0.1/invfx-api-3.0.1.pom
+[15:35:48] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/kommand/2.6.6/kommand-2.6.6.pom
+[15:35:49] [Server thread/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/kommand-api/2.6.6/kommand-api-2.6.6.pom
+[15:35:49] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.5.21/kotlin-stdlib-common-1.5.21.jar
+[15:35:49] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar
+[15:35:49] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.5.21/kotlin-stdlib-1.5.21.jar
+[15:35:49] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/tap/4.1.9/tap-4.1.9.jar
+[15:35:50] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/tap-api/4.1.9/tap-api-4.1.9.jar
+[15:35:50] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.5.21/kotlin-reflect-1.5.21.jar
+[15:35:50] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.5.0/kotlinx-coroutines-core-jvm-1.5.0.jar
+[15:35:50] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.5.0/kotlin-stdlib-jdk8-1.5.0.jar
+[15:35:50] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.5.0/kotlin-stdlib-jdk7-1.5.0.jar
+[15:35:50] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: Downloading https://repo.maven.apache.org/maven2/org/mariuszgromada/math/MathParser.org-mXparser/4.4.2/MathParser.org-mXparser-4.4.2.jar
+[15:35:51] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/invfx/3.0.1/invfx-3.0.1.jar
+[15:35:51] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/kommand/2.6.6/kommand-2.6.6.jar
+[15:35:51] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/invfx-api/3.0.1/invfx-api-3.0.1.jar
+[15:35:51] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: Downloading https://repo.maven.apache.org/maven2/io/github/monun/kommand-api/2.6.6/kommand-api-2.6.6.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\io\github\monun\tap\4.1.9\tap-4.1.9.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\org\jetbrains\kotlin\kotlin-stdlib\1.5.21\kotlin-stdlib-1.5.21.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\org\jetbrains\annotations\13.0\annotations-13.0.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\org\jetbrains\kotlin\kotlin-stdlib-common\1.5.21\kotlin-stdlib-common-1.5.21.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\io\github\monun\tap-api\4.1.9\tap-api-4.1.9.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\org\jetbrains\kotlin\kotlin-reflect\1.5.21\kotlin-reflect-1.5.21.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\org\jetbrains\kotlinx\kotlinx-coroutines-core-jvm\1.5.0\kotlinx-coroutines-core-jvm-1.5.0.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.5.0\kotlin-stdlib-jdk8-1.5.0.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.5.0\kotlin-stdlib-jdk7-1.5.0.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\org\mariuszgromada\math\MathParser.org-mXparser\4.4.2\MathParser.org-mXparser-4.4.2.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\io\github\monun\invfx\3.0.1\invfx-3.0.1.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\io\github\monun\invfx-api\3.0.1\invfx-api-3.0.1.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\io\github\monun\kommand\2.6.6\kommand-2.6.6.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loaded library Z:\MCserver\boratv\PaperMC_1-17-1\libraries\io\github\monun\kommand-api\2.6.6\kommand-api-2.6.6.jar
+[15:35:51] [Server thread/INFO]: [Psychics] Loading Psychics v2.0.0-SNAPSHOT
+[15:35:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:35:51] [Server thread/INFO]: Preparing level "world"
+[15:35:52] [Server thread/WARN]: Unable to find spawn biome
+[15:35:53] [Server thread/WARN]: Unable to find spawn biome
+[15:35:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:35:53] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[15:35:53] [Server thread/INFO]: Time elapsed: 384 ms
+[15:35:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:35:53] [Server thread/INFO]: Time elapsed: 99 ms
+[15:35:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:35:53] [Server thread/INFO]: Time elapsed: 94 ms
+[15:35:53] [Server thread/INFO]: [Psychics] Enabling Psychics v2.0.0-SNAPSHOT
+[15:35:53] [Server thread/INFO]: [Psychics] Updated abilities(0): 
+[15:35:54] [Server thread/WARN]: java.lang.ClassNotFoundException: io.github.monun.psychics.ability.pikachu.AbilityPikachu
+[15:35:54] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.loader.AbilityLoader.findClass$psychics_core(AbilityLoader.kt:77)
+[15:35:54] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.loader.AbilityClassLoader.findClass(AbilityClassLoader.kt:38)
+[15:35:54] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+[15:35:54] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[15:35:54] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[15:35:54] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:467)
+[15:35:54] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.loader.AbilityLoader.load$psychics_core(AbilityLoader.kt:41)
+[15:35:54] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.PsychicManager.loadAbilities$psychics_core(PsychicManager.kt:141)
+[15:35:54] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.plugin.PsychicsPlugin.loadModules(PsychicsPlugin.kt:75)
+[15:35:54] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.plugin.PsychicsPlugin.onEnable(PsychicsPlugin.kt:54)
+[15:35:54] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264)
+[15:35:54] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370)
+[15:35:54] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500)
+[15:35:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.enablePlugin(CraftServer.java:561)
+[15:35:54] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.enablePlugins(CraftServer.java:475)
+[15:35:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld(MinecraftServer.java:733)
+[15:35:54] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:317)
+[15:35:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1220)
+[15:35:54] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
+[15:35:54] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[15:35:54] [Server thread/WARN]: [Psychics] Failed to load Ability io.github.monun.pikachu.jar
+[15:35:54] [Server thread/INFO]: [Psychics] Loaded abilities(12):
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.berserker v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.bomber v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.fangs v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.golem-punch v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.golem-stance v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.magic-archery v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.sample v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.sling-shot v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.snatch v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.snow-gatling v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.storm-breaker v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics]   - io.github.monun.vampire v2.0.0-SNAPSHOT
+[15:35:54] [Server thread/INFO]: [Psychics] Loaded psychics(0):
+[15:35:54] [Server thread/WARN]: Could not register alias tpto because it contains commands that do not exist: multiverse-core:mv tp $$1 $$2
+[15:35:54] [Server thread/INFO]: Running delayed init tasks
+[15:35:54] [Server thread/INFO]: Done (17.453s)! For help, type "help"
+[15:35:54] [Server thread/INFO]: Timings Reset
+[15:36:09] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:36:09] [Server thread/INFO]: psychics<--[HERE]
+[15:36:18] [Server thread/INFO]: Incorrect argument for command
+[15:36:18] [Server thread/INFO]: psychics info<--[HERE]
+[15:36:37] [Server thread/INFO]: [Psychics] Updated abilities(0): 
+[15:36:37] [Server thread/WARN]: java.lang.ClassNotFoundException: io.github.monun.psychics.ability.pikachu.AbilityPikachu
+[15:36:37] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.loader.AbilityLoader.findClass$psychics_core(AbilityLoader.kt:77)
+[15:36:37] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.loader.AbilityClassLoader.findClass(AbilityClassLoader.kt:38)
+[15:36:37] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+[15:36:37] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[15:36:37] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[15:36:37] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:467)
+[15:36:37] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.loader.AbilityLoader.load$psychics_core(AbilityLoader.kt:41)
+[15:36:37] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.PsychicManager.loadAbilities$psychics_core(PsychicManager.kt:141)
+[15:36:37] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.PsychicManager.reload$psychics_core(PsychicManager.kt:61)
+[15:36:37] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.plugin.PsychicsPlugin.reloadPsychics(PsychicsPlugin.kt:116)
+[15:36:37] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.command.KommandPsychics$register$1$6$1.invoke(KommandPsychics.kt:112)
+[15:36:37] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.command.KommandPsychics$register$1$6$1.invoke(KommandPsychics.kt:111)
+[15:36:37] [Server thread/WARN]: 	at io.github.monun.kommand.v1_17_1.NMSKommandKt.convert$lambda-14$lambda-12$lambda-11(NMSKommand.kt:136)
+[15:36:37] [Server thread/WARN]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
+[15:36:37] [Server thread/WARN]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:177)
+[15:36:37] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:282)
+[15:36:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.command.VanillaCommandWrapper.execute(VanillaCommandWrapper.java:45)
+[15:36:37] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[15:36:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869)
+[15:36:37] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchServerCommand(CraftServer.java:832)
+[15:36:37] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleCommandQueue(DedicatedServer.java:529)
+[15:36:37] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:491)
+[15:36:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1483)
+[15:36:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1282)
+[15:36:37] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
+[15:36:37] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[15:36:37] [Server thread/WARN]: [Psychics] Failed to load Ability io.github.monun.pikachu.jar
+[15:36:37] [Server thread/INFO]: [Psychics] Loaded abilities(12):
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.berserker v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.bomber v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.fangs v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.golem-punch v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.golem-stance v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.magic-archery v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.sample v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.sling-shot v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.snatch v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.snow-gatling v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.storm-breaker v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics]   - io.github.monun.vampire v2.0.0-SNAPSHOT
+[15:36:37] [Server thread/INFO]: [Psychics] Loaded psychics(0):
+[15:36:37] [Server thread/INFO]: Psychics reload complete.
+[15:46:46] [Server thread/INFO]: [Psychics] Updated abilities(0): 
+[15:46:46] [Server thread/WARN]: java.lang.ClassNotFoundException: io.github.monun.psychics.ability.pikachu.AbilityPikachu
+[15:46:46] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.loader.AbilityLoader.findClass$psychics_core(AbilityLoader.kt:77)
+[15:46:46] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.loader.AbilityClassLoader.findClass(AbilityClassLoader.kt:38)
+[15:46:46] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+[15:46:46] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[15:46:46] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[15:46:46] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:467)
+[15:46:46] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.loader.AbilityLoader.load$psychics_core(AbilityLoader.kt:41)
+[15:46:46] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.PsychicManager.loadAbilities$psychics_core(PsychicManager.kt:141)
+[15:46:46] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.PsychicManager.reload$psychics_core(PsychicManager.kt:61)
+[15:46:46] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.plugin.PsychicsPlugin.reloadPsychics(PsychicsPlugin.kt:116)
+[15:46:46] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.command.KommandPsychics$register$1$6$1.invoke(KommandPsychics.kt:112)
+[15:46:46] [Server thread/WARN]: 	at Psychics.jar//io.github.monun.psychics.command.KommandPsychics$register$1$6$1.invoke(KommandPsychics.kt:111)
+[15:46:46] [Server thread/WARN]: 	at io.github.monun.kommand.v1_17_1.NMSKommandKt.convert$lambda-14$lambda-12$lambda-11(NMSKommand.kt:136)
+[15:46:46] [Server thread/WARN]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
+[15:46:46] [Server thread/WARN]: 	at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:177)
+[15:46:46] [Server thread/WARN]: 	at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:282)
+[15:46:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.command.VanillaCommandWrapper.execute(VanillaCommandWrapper.java:45)
+[15:46:46] [Server thread/WARN]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[15:46:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869)
+[15:46:46] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchServerCommand(CraftServer.java:832)
+[15:46:46] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.handleCommandQueue(DedicatedServer.java:529)
+[15:46:46] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:491)
+[15:46:46] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1483)
+[15:46:46] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1282)
+[15:46:46] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
+[15:46:46] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:833)
+[15:46:46] [Server thread/WARN]: [Psychics] Failed to load Ability io.github.monun.pikachu.jar
+[15:46:46] [Server thread/INFO]: [Psychics] Loaded abilities(12):
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.berserker v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.bomber v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.fangs v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.golem-punch v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.golem-stance v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.magic-archery v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.sample v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.sling-shot v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.snatch v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.snow-gatling v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.storm-breaker v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics]   - io.github.monun.vampire v2.0.0-SNAPSHOT
+[15:46:46] [Server thread/INFO]: [Psychics] Loaded psychics(0):
+[15:46:46] [Server thread/INFO]: Psychics reload complete.
+[15:47:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:47:10] [Server thread/INFO]: ... attach @a<--[HERE]
+[16:00:36] [Server thread/INFO]: Stopping the server
+[16:00:36] [Server thread/INFO]: Stopping server
+[16:00:36] [Server thread/INFO]: [Psychics] Disabling Psychics v2.0.0-SNAPSHOT
+[16:00:36] [Server thread/INFO]: Saving players
+[16:00:36] [Server thread/INFO]: Saving worlds
+[16:00:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:00:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:00:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:00:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:00:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:00:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:00:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:00:38] [Server thread/INFO]: Flushing Chunk IO
+[16:00:38] [Server thread/INFO]: Closing Thread Pool
