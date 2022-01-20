@@ -1,0 +1,45 @@
+> psy reload
+[15:46:46 INFO]: [Psychics] Updated abilities(0):
+[15:46:46 WARN]: java.lang.ClassNotFoundException: io.github.monun.psychics.ability.pikachu.AbilityPikachu
+[15:46:46 WARN]:        at Psychics.jar//io.github.monun.psychics.loader.AbilityLoader.findClass$psychics_core(AbilityLoader.kt:77)
+[15:46:46 WARN]:        at Psychics.jar//io.github.monun.psychics.loader.AbilityClassLoader.findClass(AbilityClassLoader.kt:38)
+[15:46:46 WARN]:        at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:587)
+[15:46:46 WARN]:        at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+[15:46:46 WARN]:        at java.base/java.lang.Class.forName0(Native Method)
+[15:46:46 WARN]:        at java.base/java.lang.Class.forName(Class.java:467)
+[15:46:46 WARN]:        at Psychics.jar//io.github.monun.psychics.loader.AbilityLoader.load$psychics_core(AbilityLoader.kt:41)
+[15:46:46 WARN]:        at Psychics.jar//io.github.monun.psychics.PsychicManager.loadAbilities$psychics_core(PsychicManager.kt:141)
+[15:46:46 WARN]:        at Psychics.jar//io.github.monun.psychics.PsychicManager.reload$psychics_core(PsychicManager.kt:61)
+[15:46:46 WARN]:        at Psychics.jar//io.github.monun.psychics.plugin.PsychicsPlugin.reloadPsychics(PsychicsPlugin.kt:116)
+[15:46:46 WARN]:        at Psychics.jar//io.github.monun.psychics.command.KommandPsychics$register$1$6$1.invoke(KommandPsychics.kt:112)
+[15:46:46 WARN]:        at Psychics.jar//io.github.monun.psychics.command.KommandPsychics$register$1$6$1.invoke(KommandPsychics.kt:111)
+[15:46:46 WARN]:        at io.github.monun.kommand.v1_17_1.NMSKommandKt.convert$lambda-14$lambda-12$lambda-11(NMSKommand.kt:136)
+[15:46:46 WARN]:        at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:263)
+[15:46:46 WARN]:        at com.mojang.brigadier.CommandDispatcher.execute(CommandDispatcher.java:177)
+[15:46:46 WARN]:        at net.minecraft.commands.CommandDispatcher.a(CommandDispatcher.java:282)
+[15:46:46 WARN]:        at org.bukkit.craftbukkit.v1_17_R1.command.VanillaCommandWrapper.execute(VanillaCommandWrapper.java:45)
+[15:46:46 WARN]:        at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[15:46:46 WARN]:        at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchCommand(CraftServer.java:869)
+[15:46:46 WARN]:        at org.bukkit.craftbukkit.v1_17_R1.CraftServer.dispatchServerCommand(CraftServer.java:832)
+[15:46:46 WARN]:        at net.minecraft.server.dedicated.DedicatedServer.handleCommandQueue(DedicatedServer.java:529)
+[15:46:46 WARN]:        at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:491)
+[15:46:46 WARN]:        at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1483)
+[15:46:46 WARN]:        at net.minecraft.server.MinecraftServer.x(MinecraftServer.java:1282)
+[15:46:46 WARN]:        at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:319)
+[15:46:46 WARN]:        at java.base/java.lang.Thread.run(Thread.java:833)
+[15:46:46 WARN]: [Psychics] Failed to load Ability io.github.monun.pikachu.jar
+[15:46:46 INFO]: [Psychics] Loaded abilities(12):
+[15:46:46 INFO]: [Psychics]   - io.github.monun.berserker v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics]   - io.github.monun.bomber v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics]   - io.github.monun.fangs v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics]   - io.github.monun.golem-punch v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics]   - io.github.monun.golem-stance v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics]   - io.github.monun.magic-archery v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics]   - io.github.monun.sample v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics]   - io.github.monun.sling-shot v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics]   - io.github.monun.snatch v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics]   - io.github.monun.snow-gatling v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics]   - io.github.monun.storm-breaker v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics]   - io.github.monun.vampire v2.0.0-SNAPSHOT
+[15:46:46 INFO]: [Psychics] Loaded psychics(0):
+[15:46:46 INFO]: Psychics reload complete.
